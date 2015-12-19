@@ -1,0 +1,41 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "react boilerplate build with webpack",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "webpack-dev-server --devtool eval --progress --hot --colors --port 8088 --content-base src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micua/react-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "react",
+    "webpack"
+  ],
+  "author": "iceStone <ice@wedn.net> (http://www.wedn.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micua/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Micua/react-boilerplate#readme",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.12.9"
+  },
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "css-loader": "^0.23.0",
+    "node-sass": "^3.4.2",
+    "open-browser-webpack-plugin": "0.0.1",
+    "sass-loader": "^3.1.2",
+    "style-loader": "^0.13.0"
+  }
+}

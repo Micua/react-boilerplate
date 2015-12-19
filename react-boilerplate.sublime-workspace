@@ -1,0 +1,205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"devtool"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "close",
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/iceStone/Documents/Repositories/react-boilerplate",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/demo",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/demo/build",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/dist",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/src",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/src/components",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/src/styles"
+	],
+	"file_history":
+	[
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/package.json",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/webpack.config.js",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/src/components/App.jsx",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/import.sublime-snippet",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Snippets/require.sublime-snippet",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/src/styles/_common.scss",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/src/main.js",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/src/styles/main.scss",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/.babelrc",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/demo/.babelrc",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/.gitignore",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/src/index.html",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/.jshintrc",
+		"/Users/iceStone/Documents/Repositories/react-boilerplate/app/main.css",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/iceStone/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"6000",
+			"OpenBrowserPlugin",
+			"path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-boilerplate.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
